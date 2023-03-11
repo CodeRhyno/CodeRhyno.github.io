@@ -2,7 +2,6 @@ baseURL: https://coderhyno.com/
 languageCode: en-us
 title: CodeRhyno
 theme: "PaperMod"
-publishDir: docs
 
 outputs:
   home:
@@ -11,7 +10,7 @@ outputs:
     - JSON
 
 params:
-  defaultTheme: auto
+  defaultTheme: dark
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
