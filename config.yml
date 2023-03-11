@@ -1,0 +1,33 @@
+baseURL: https://coderhyno.com/
+languageCode: en-us
+title: CodeRhyno
+theme: "PaperMod"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  defaultTheme: auto
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  ShowReadingTime: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary", "content" ]
+
+#  homeInfoParams:
+#    Title: Shlok Walia
+#    Content: I love building things that live on the internet, whether that be static web pages or entire web applications. Working as a Software Engineer 2 at Wingman by Clari. I build the infrastructure that enables Wingman to provide real-time conversation intelligence to help our customers sell faster.
+
+
