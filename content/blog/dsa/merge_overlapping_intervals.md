@@ -21,7 +21,7 @@ editPost:
 5. Return the output.
 
 #### Time & Space Complexity
-Time Complexity: __O(N)__
+Time Complexity: __O(N*log(N))__
 
 Space Complexity: __O(N)__
 
