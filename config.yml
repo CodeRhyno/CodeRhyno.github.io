@@ -2,7 +2,18 @@ baseURL: https://coderhyno.com/
 languageCode: en-us
 title: CodeRhyno
 theme: "PaperMod"
-publishDir: docs
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: https://shlokwalia.com/about/
+    - identifier: Archive
+      name: Archive
+      url: /archive/
+    - identifier: Search
+      name: Search
+      url: /search/
 
 outputs:
   home:
@@ -11,7 +22,7 @@ outputs:
     - JSON
 
 params:
-  defaultTheme: auto
+  defaultTheme: dark
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
