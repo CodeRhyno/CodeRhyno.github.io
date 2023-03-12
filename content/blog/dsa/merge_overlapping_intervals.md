@@ -4,6 +4,10 @@ date: 2023-03-12T09:55:47+05:30
 draft: false
 author: ['CodeRhyno']
 tags: ['DSA', 'Arrays', 'Sorting']
+editPost:
+    URL: 'https://github.com/CodeRhyno/CodeRhyno.github.io/tree/main/content'
+    Text: 'Suggest Changes'
+    appendFilePath: true
 ---
 
 ### Leetcode problem link: [Merge Overlapping Intervals](https://leetcode.com/problems/merge-intervals/)
