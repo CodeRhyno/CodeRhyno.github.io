@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CodeRhyno</title>
-    <link>https://coderhyno.com/</link>
-    <description>Recent content on CodeRhyno</description>
+    <title>Sorting on CodeRhyno</title>
+    <link>https://coderhyno.com/tags/sorting/</link>
+    <description>Recent content in Sorting on CodeRhyno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 09:55:47 +0530</lastBuildDate><atom:link href="https://coderhyno.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Mar 2023 09:55:47 +0530</lastBuildDate><atom:link href="https://coderhyno.com/tags/sorting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merge Overlapping Intervals</title>
       <link>https://coderhyno.com/blog/dsa/merge_overlapping_intervals/</link>
@@ -15,8 +15,6 @@
       <guid>https://coderhyno.com/blog/dsa/merge_overlapping_intervals/</guid>
       <description>Leetcode problem link: Merge Overlapping Intervals Optimised Approach Make copy of the input array (it&amp;rsquo;s a good practice to not update the inputs provided). Sort the copied input based upon the start of each interval. Add the first interval from sorted list to the output. For each element in the sorted list from index 1, if it is able to merge to the last interval in output then merge else add to the output list.</description>
     </item>
-    
-    
     
   </channel>
 </rss>

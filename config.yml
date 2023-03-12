@@ -3,6 +3,18 @@ languageCode: en-us
 title: CodeRhyno
 theme: "PaperMod"
 
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: https://shlokwalia.com/about/
+    - identifier: Archive
+      name: Archive
+      url: /archive/
+    - identifier: Search
+      name: Search
+      url: /search/
+
 outputs:
   home:
     - HTML
